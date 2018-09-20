@@ -273,6 +273,7 @@
 					"$(SRCROOT)/../../React/**",
 					"$(SRCROOT)/../react-native/React/**",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = BVLinearGradient;
@@ -289,6 +290,7 @@
 					"$(SRCROOT)/../../React/**",
 					"$(SRCROOT)/../react-native/React/**",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = BVLinearGradient;
